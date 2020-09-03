@@ -30,7 +30,11 @@ main{
     text-overflow: ellipsis;
     margin-bottom: 20px;
     margin-top:20px ;
+    background-color: white;
+}
+
     /* margin-left:95px ;
+    
     margin-bottom:30px ; */
 
 }
