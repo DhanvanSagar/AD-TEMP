@@ -116,7 +116,7 @@ main{
     padding-bottom:8px ;
 }
 
-@media screen and (max-width: 479px)
+@media screen and (max-width: 600px)
 {
     #cards
     {
